@@ -1,0 +1,16 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "Ung dung quan ly danh ba - Backend 1",
+  "license": "ISC",
+  "author": "Pham Phuc Hau",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
